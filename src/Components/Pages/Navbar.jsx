@@ -113,7 +113,7 @@ export default function Navbar() {
           ) : (
             <button
               className="btn btn-primary py-4 px-lg-5 d-none d-lg-block"
-              onClick={() => }
+              
             >
               Join Now<i className="fa fa-arrow-right ms-3"></i>
             </button>
