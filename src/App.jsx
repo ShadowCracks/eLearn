@@ -37,7 +37,7 @@ import Feedback from "./Components/Pages/Feedback";
 import FeedbackAll from "./Components/Pages/FeedbackAll";
 
 function App() {
-  const { loginWithRedirect } = useAuth0();
+  const { loginWithRedirect } = "";
   return (
     <>
       <BrowserRouter>
