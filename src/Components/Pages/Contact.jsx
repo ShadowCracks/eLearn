@@ -94,7 +94,7 @@ export default function Contact() {
             >
               <iframe
                 className="position-relative rounded w-100 h-100"
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4327.512444698837!2d80.17810250948644!3d12.620432297105136!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a53ab5250243c71%3A0xbb338ff75412f3f5!2sDhanalakshmi%20Srinivasan%20College%20of%20Engineering%20and%20Technology!5e0!3m2!1sen!2sin!4v1710127521636!5m2!1sen!2sin"
+                src="https://www.google.com/maps/place/Hotel+Riu+Plaza+Manhattan+Times+Square/@40.6606901,-73.9863725,9z/data=!4m12!1m2!2m1!1sHotels!3m8!1s0x89c25855f360c635:0x713f892f815c421!5m2!4m1!1i2!8m2!3d40.7589022!4d-73.9836073!16s%2Fg%2F11m_ws3cn7?entry=ttu&g_ep=EgoyMDI1MDQxMy4wIKXMDSoASAFQAw%3D%3D"
                 frameBorder={0}
                 style={{ minHeight: "300px", border: 0 }}
                 allowFullScreen
