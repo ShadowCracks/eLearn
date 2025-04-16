@@ -50,7 +50,7 @@ function App() {
           <Route path="/contact" element={<Contact1 />} />
           <Route path="/error" element={<ErrorPage />} />
           <Route
-            path="/signin"
+            path="/"
             render={() => {
               loginWithRedirect();
             }}
